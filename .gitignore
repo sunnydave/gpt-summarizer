@@ -1,0 +1,4 @@
+.idea
+gpt_logs
+output
+gpt/__pycache__
